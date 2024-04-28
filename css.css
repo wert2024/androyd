@@ -1,0 +1,50 @@
+
+
+.block-1{
+	width: 75px;
+	height: 75px;
+	
+	margin: 25px;
+	border: 2px solid black;
+	text-align: center;
+}
+
+hr {
+	clear: both;
+}
+
+.block-2{
+	width: 75px;
+	height: 75px;
+
+	margin: 25px;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.block-3{
+	width: 75px;
+	height: 75px;
+	
+	margin: 25px;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.block-4{
+	width: 75px;
+	height: 75px;
+	
+	margin: 25px;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.block-5{
+	width: 75px;
+	height: 75px;
+	
+	margin: 25px;
+	border: 2px solid black;
+	text-align: center;
+}
